@@ -7,7 +7,7 @@ def fizzBuzz(n):
             
         elif i % 5 == 0:
             arr.append("Buzz")
-            
+
         else:
             arr.append(str(i))
 
